@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Projets to be made
+### Projects to be made
 
 - [ ] Create a TCP server
