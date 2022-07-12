@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/shubham-upreti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCJs9hldl9gXJskkatGBMZcw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
   <a href="https://twitter.com/progmatic99">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -28,6 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ### Projects to be made
 
 - [ ] Create a TCP server
+- [ ] Sparkize
